@@ -1177,6 +1177,13 @@ section {
   transition: 0.3s ease;
 }
 
+.booking-section {
+   padding: 80px 20px;
+   text-align: center;
+   background: #111;
+   color: #fff;
+}
+
 .btn-hero:hover {
   transform: scale(1.08);
   box-shadow: 0 10px 30px rgba(0,0,0,0.4);
